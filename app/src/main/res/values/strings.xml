@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Bookmarks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zingText">zingmp3</string>
+    <string name="blueZoneText">Blue Zone</string>
+    <string name="baoMoiText">Bao Moi</string>
+    <string name="vnexpressText">VnExpress</string>
+    <string name="mediumText">Medium</string>
+    <string name="back">BACK</string>
+</resources>
